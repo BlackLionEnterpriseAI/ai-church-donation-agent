@@ -1,0 +1,3 @@
+Hi {{name}}! Thank you for being part of our community.  
+Would you like to make today’s offering or donation?  
+Here is the link: {{donation_link}}
